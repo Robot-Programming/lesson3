@@ -1,2 +1,2 @@
-# nodes
-ROS nodes example and exercises
+# ROS Nodes, Topics and Services
+ROS example and exercises
