@@ -1,0 +1,4 @@
+<launch>
+  <node name="node2" pkg="uno" type="leggi.py" output="screen"/>
+  <node name="node1" pkg="uno" type="scrivi.py"  output="screen"/>
+</launch>
